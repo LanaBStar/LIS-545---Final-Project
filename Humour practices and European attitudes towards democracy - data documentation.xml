@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+  <identifier identifierType="DOI">10.5281/zenodo.15756409</identifier>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="URL">https://github.com/LanaBStar/LIS-545---Final-Project/tree/main</alternateIdentifier>
+  </alternateIdentifiers>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Engelken-Jorge, Marcos</creatorName>
+      <givenName>Marcos</givenName>
+      <familyName>Engelken-Jorge</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0003-1827-9356</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/000xsnr85" affiliationIdentifierScheme="ROR">University of the Basque Country</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Moreno, Carmelo</creatorName>
+      <givenName>Carmelo</givenName>
+      <familyName>Moreno</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0003-4002-3787</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Castañeda-Zumeta, Aitor</creatorName>
+      <givenName>Aitor</givenName>
+      <familyName>Castañeda-Zumeta</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0002-3887-7479</nameIdentifier>
+      <affiliation>Universidad del País Vasco - Campus Bizkaia</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Astapova, Anastasiya</creatorName>
+      <givenName>Anastasiya</givenName>
+      <familyName>Astapova</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0002-9401-0909</nameIdentifier>
+      <affiliation>University of Tartu</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Bricker, Andrew</creatorName>
+      <givenName>Andrew</givenName>
+      <familyName>Bricker</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0003-4972-1282</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/00cv9y106" affiliationIdentifierScheme="ROR">Ghent University</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Cingerova, Nina</creatorName>
+      <givenName>Nina</givenName>
+      <familyName>Cingerova</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0003-1271-4687</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/0587ef340" affiliationIdentifierScheme="ROR">Comenius University Bratislava</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Dulebova, Irina</creatorName>
+      <givenName>Irina</givenName>
+      <familyName>Dulebova</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0001-8916-1617</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Fleischhack, Julia</creatorName>
+      <givenName>Julia</givenName>
+      <familyName>Fleischhack</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0002-0332-476X</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Godioli, Alberto</creatorName>
+      <givenName>Alberto</givenName>
+      <familyName>Godioli</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0002-6147-2760</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/012p63287" affiliationIdentifierScheme="ROR">University of Groningen</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Kempynck, Amber</creatorName>
+      <givenName>Amber</givenName>
+      <familyName>Kempynck</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0003-3171-4172</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Motyková, Katarína</creatorName>
+      <givenName>Katarína</givenName>
+      <familyName>Motyková</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0009-0008-0991-2416</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/0587ef340" affiliationIdentifierScheme="ROR">Comenius University Bratislava</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Sámelová, Anna</creatorName>
+      <givenName>Anna</givenName>
+      <familyName>Sámelová</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0002-0206-8602</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Suleimanov, Ismet</creatorName>
+      <givenName>Ismet</givenName>
+      <familyName>Suleimanov</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0003-2201-4983</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Vandaele, Jeroen</creatorName>
+      <givenName>Jeroen</givenName>
+      <familyName>Vandaele</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0002-6534-3501</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/00cv9y106" affiliationIdentifierScheme="ROR">Ghent University</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Zobar, Oğuzhan</creatorName>
+      <givenName>Oğuzhan</givenName>
+      <familyName>Zobar</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0009-0004-3241-730X</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Luisa Fernanda, Isaza-Ibarra</creatorName>
+      <givenName>Isaza-Ibarra</givenName>
+      <familyName>Luisa Fernanda</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0002-8075-1001</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/012p63287" affiliationIdentifierScheme="ROR">University of Groningen</affiliation>
+    </creator>
+  </creators>
+  <titles>
+    <title>Humour practices and European attitudes towards democracy - data documentation</title>
+  </titles>
+  <publisher>Democratic Literacy and Humour (DELIAH) </publisher>
+  <publicationYear>2025</publicationYear>
+  <subjects>
+    <subject xml:lang="en" subjectScheme="EuroSciVoc">Democracy</subject>
+    <subject xml:lang="en" subjectScheme="MeSH">Democracy</subject>
+    <subject xml:lang="en" subjectScheme="GEMET">Democracy</subject>
+    <subject>humor</subject>
+    <subject>humour</subject>
+  </subjects>
+  <language>eng</language>
+  <resourceType resourceTypeGeneral="Dataset"></resourceType>
+  <version>1 - Final</version>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/legalcode" rightsIdentifierScheme="spdx" rightsIdentifier="cc-by-4.0">Creative Commons Attribution 4.0 International</rights>
+    <rights rightsURI="info:eu-repo/semantics/openAccess"/>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">This document outlines the scope and key features of the 'Humour Practices and European Attitudes Toward Democracy' dataset, including the procedure followed for its production. The database collects and classifies relevant studies on humour practices, attitudes toward democracy, and modes of civic engagement in the six countries of the DELIAH consortium: Belgium, Estonia, Germany, the Netherlands, Slovakia, and Spain. The dataset pursues two goals: 1) it contributes to a subsequent meta-analysis of humour studies, democratic participation, and civic engagement in online and offline spaces across Europe, which will be carried out by the DELIAH consortium, and 2) it serves as a collective resource for additional DELIAH project tasks, including the design of focus groups and surveys. More broadly, the dataset has also been designed to appeal to scholars outside of the DELIAH consortium who work at the intersection of humour and democracy.</description>
+  </descriptions>
+</resource>
