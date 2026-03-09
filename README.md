@@ -26,4 +26,7 @@ Users should consult the official project documentation for additional rights an
 
 Engelken-Jorge, M., Moreno, C., & Castañeda-Zumeta, A. (2025). Humour practices and European attitudes toward democracy: Data documentation (Version 1) [Data set]. DELIAH. https://doi.org/10.5281/zenodo.15756409
 
+Original dataset and documentation produced by the DELIAH project:
+*Democratic Literacy and Humour (DELIAH).*
+
 Please note: The contents of DELIAH_Humour_Democracy.xml were originally retrieved from Zenodo and have been modified to reflect this curated repository context.
