@@ -1,7 +1,7 @@
 # DELIAH Humour Practices and European Attitudes Toward Democracy Dataset  
 ## LIS 545 Data Curation Final Project
 
-This repository contains my LIS 545 Data Curation final project at the University of Washington. It presents a curated version of the DELIAH dataset *Humour Practices and European Attitudes Toward Democracy*, along with accompanying documentation, a metadata record, and my final project report.
+This repository contains my LIS 545 Data Curation final project at the University of Washington. It presents a curated academic repository for the DELIAH dataset *Humour Practices and European Attitudes Toward Democracy*, along with accompanying documentation, a metadata record, and my final project report.
 
 ## About the Dataset
 
