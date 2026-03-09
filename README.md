@@ -17,6 +17,12 @@ This repository contains my LIS 545 Data Curation final project at the Universit
 - **LIS 545 Final Report.pdf**  
   Final project report for LIS 545.
 
+## About the Dataset
+
+The DELIAH dataset documents studies on humour practices and their relationship to democracy and civic engagement. This dataset was created to support research on humour, democratic participation, and civic engagement across six DELIAH consortium countries: Belgium, Estonia, Germany, the Netherlands, Slovakia, and Spain.
+
+The dataset is designed both as a resource for the DELIAH consortium and as a resource for outside researchers working on humour and democracy.
+
 ## Rights and Reuse
 
 This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
@@ -26,7 +32,8 @@ Users should consult the official project documentation for additional rights an
 
 Engelken-Jorge, M., Moreno, C., & Castañeda-Zumeta, A. (2025). Humour practices and European attitudes toward democracy: Data documentation (Version 1) [Data set]. DELIAH. https://doi.org/10.5281/zenodo.15756409
 
+## Notes
 Original dataset and documentation produced by the DELIAH project:
-*Democratic Literacy and Humour (DELIAH).*
+[Democratic Literacy and Humour (DELIAH)](deliah.eu)
 
-Please note: The contents of DELIAH_Humour_Democracy.xml were originally retrieved from Zenodo and have been modified to reflect this curated repository context.
+The contents of DELIAH_Humour_Democracy.xml were originally retrieved from Zenodo and have been modified to reflect this curated repository context.
