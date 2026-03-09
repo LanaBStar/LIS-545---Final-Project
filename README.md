@@ -20,9 +20,10 @@ This repository contains my LIS 545 Data Curation final project at the Universit
 ## Rights and Reuse
 
 According to the official DELIAH documentation, this work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
-
 Users should consult the official project documentation for additional rights and attribution information.
 
 ## Suggested Citation
+
+Engelken-Jorge, M., Moreno, C., & Castañeda-Zumeta, A. (2025). Humour practices and European attitudes toward democracy: Data documentation (Version 1) [Data set]. DELIAH. https://doi.org/10.5281/zenodo.15756409
 
 Please note: The contents of DELIAH_Humour_Democracy.xml were originally retrieved from Zenodo and have been modified to reflect this curated repository context.
