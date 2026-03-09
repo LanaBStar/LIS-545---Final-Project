@@ -15,9 +15,9 @@ The dataset is designed both as a resource for the DELIAH consortium and as a re
   **The primary dataset.** This spreadsheet contains the assembled and catalogued records of studies related to humour practices, democratic attitudes, and civic engagement.
 
 - **DELIAH - M1-MS1.1 - Database of humour practices assembled and catalogued - v1 - 20250619.pdf**  
-  **Official data documentation for the dataset.** This document explains the scope and purpose of the dataset, information collection procedures, eligibility criteria, search strategies, sources consulted, and the coding/tagging structure used to classify entries.
+  **Official data documentation for the dataset.** This document explains the scope and purpose of the dataset, information collection procedures, eligibility criteria, search strategies, sources consulted, as well as the **full variable definitions and coding categories used to classify entries within the primary dataset.**
 
-- **DELIAH-Humour_Democracy.xml**  
+- **DELIAH_Humour_Democracy.xml**  
   A structured metadata record for this curation project to describe the dataset in a standardized form.
 
 - **LIS 545 Final Report.pdf**  
@@ -36,4 +36,4 @@ Engelken-Jorge, M., Moreno, C., & Castañeda-Zumeta, A. (2025). Humour practices
 Original dataset and documentation produced by the DELIAH project:
 [Democratic Literacy and Humour (DELIAH)](https://deliah.eu)
 
-The file **DELIAH-Humour_Democracy.xml** was adapted from metadata originally retrieved from Zenodo and modified to reflect this GitHub repository context.
+The file **DELIAH_Humour_Democracy.xml** was adapted from metadata originally retrieved from Zenodo and modified to reflect this GitHub repository context.
