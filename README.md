@@ -12,10 +12,10 @@ The dataset is designed both as a resource for the DELIAH consortium and as a re
 ## Repository Contents
 
 - **DELIAH - D1-D1.1 - DATASET - 20250520.xlsx**  
-  **The primary dataset.** This spreadsheet contains the assembled and catalogued records of studies related to humour practices, democratic attitudes, and civic engagement.
+  The primary dataset. This spreadsheet contains the assembled and catalogued records of studies related to humour practices, democratic attitudes, and civic engagement.
 
 - **DELIAH - M1-MS1.1 - Database of humour practices assembled and catalogued - v1 - 20250619.pdf**  
-  **Official data documentation for the dataset.** This document explains the scope and purpose of the dataset, information collection procedures, eligibility criteria, search strategies, sources consulted, as well as the **full variable definitions and coding categories used to classify entries within the primary dataset.**
+  Official data documentation for the dataset. This document explains the scope and purpose of the dataset, information collection procedures, eligibility criteria, search strategies, sources consulted, as well as the **full variable definitions and coding categories used to classify entries within the primary dataset.**
 
 - **DELIAH_Humour_Democracy.xml**  
   A structured metadata record for this curation project to describe the dataset in a standardized form.
