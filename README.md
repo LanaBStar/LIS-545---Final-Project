@@ -19,7 +19,7 @@ This repository contains my LIS 545 Data Curation final project at the Universit
 
 ## Rights and Reuse
 
-According to the official DELIAH documentation, this work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 Users should consult the official project documentation for additional rights and attribution information.
 
 ## Suggested Citation
