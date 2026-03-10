@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+<?xml version='1.0' encoding='utf-8'?>
+<resource xmlns="http://datacite.org/schema/kernel-4"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.7/metadata.xsd">
   <identifier identifierType="DOI">10.5281/zenodo.15756409</identifier>
-  <alternateIdentifiers>
-    <alternateIdentifier alternateIdentifierType="URL">https://github.com/LanaBStar/LIS-545---Final-Project/tree/main</alternateIdentifier>
-  </alternateIdentifiers>
   <creators>
     <creator>
       <creatorName nameType="Personal">Engelken-Jorge, Marcos</creatorName>
@@ -125,6 +125,9 @@
   </subjects>
   <language>eng</language>
   <resourceType resourceTypeGeneral="Dataset"></resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="URL">https://github.com/LanaBStar/LIS-545---Final-Project/tree/main</alternateIdentifier>
+  </alternateIdentifiers>
   <version>1 - Final</version>
   <rightsList>
     <rights rightsURI="https://creativecommons.org/licenses/by/4.0/legalcode" rightsIdentifierScheme="spdx" rightsIdentifier="cc-by-4.0">Creative Commons Attribution 4.0 International</rights>
